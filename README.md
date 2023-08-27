@@ -1,2 +1,3 @@
 # DecimalLib
-changeme
+Implementation of decimal library for C. 
+
